@@ -56,13 +56,13 @@
                 <table class="tabla">
                     <tr>
                         <th>
-                            <a href="proyectoDEAW/indexProyectoDEAW.php"><img src="../webroot/css/img/imgdaw.png" alt="Rellenar"></a>
+                            <a href="https://github.com/IESSAUCES/DAWDespliegueAplicacionesWeb/wiki"><img src="../webroot/css/img/imgdaw.png" alt="Rellenar"></a>
                         </th>
                     </tr>
                     <tr  class="bordetitulo">
                         <td>
                             <figure>
-                                <a href="proyectoDEAW/indexProyectoDEAW.php"><figcaption class="titulofoto">Despliege de Aplicaciones Web</figcaption></a>
+                                <a href="https://github.com/IESSAUCES/DAWDespliegueAplicacionesWeb/wiki"><figcaption class="titulofoto">Despliege de Aplicaciones Web</figcaption></a>
                             </figure>
                         </td>
                     </tr>
