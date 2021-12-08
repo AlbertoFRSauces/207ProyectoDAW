@@ -17,14 +17,17 @@
             <h1>Desarrollo de Aplicaciones Web</h1>
         </header>
         <article class="segundot">
-            <h2>Alberto Fernández Ramírez</h2>
+            <h2>Pagina web desarrollada para mostrar el contenido desarrollado en el curso DAW2 de cada asignatura</h2>
+        </article>
+        <article class="segundot">
+            <h3>By Alberto Fernández Ramírez</h3>
         </article>
         <main class="container">
             <section class="primerasfilas">
                 <table class="tabla">
                     <tr>
                         <th>
-                            <a href="proyectoDWEC/indexProyectoDWEC.php"><img src="../webroot/css/img/imgdwec.png" alt="Rellenar"></a>
+                            <a href="proyectoDWEC/indexProyectoDWEC.php"><img src="../webroot/css/img/imgdwec.png" class="imagemenu" alt="Rellenar"></a>
                         </th>
                     </tr>
                     <tr class="bordetitulo">
@@ -40,7 +43,7 @@
                 <table class="tabla">
                     <tr>
                         <th>
-                            <a href="proyectoDWES/indexProyectoDWES.php"><img src="../webroot/css/img/imgdwes.png" alt="Rellenar"></a>
+                            <a href="proyectoDWES/indexProyectoDWES.php"><img src="../webroot/css/img/imgdwes.png" class="imagemenu" alt="Rellenar"></a>
                         </th>
                     </tr>
                     <tr class="bordetitulo">
@@ -56,7 +59,7 @@
                 <table class="tabla">
                     <tr>
                         <th>
-                            <a href="https://github.com/IESSAUCES/DAWDespliegueAplicacionesWeb/wiki"><img src="../webroot/css/img/imgdaw.png" alt="Rellenar"></a>
+                            <a href="https://github.com/IESSAUCES/DAWDespliegueAplicacionesWeb/wiki"><img src="../webroot/css/img/imgdaw.png" class="imagemenu" alt="Rellenar"></a>
                         </th>
                     </tr>
                     <tr  class="bordetitulo">
@@ -72,7 +75,7 @@
                 <table class="tabla">
                     <tr>
                         <th>
-                            <a href="proyectoDIW/indexProyectoDIW.php"><img src="../webroot/css/img/imgdiw.png" alt="Rellenar"></a>
+                            <a href="proyectoDIW/indexProyectoDIW.php"><img src="../webroot/css/img/imgdiw.png" class="imagemenu" alt="Rellenar"></a>
                         </th>
                     </tr>
                     <tr class="bordetitulo">
@@ -86,9 +89,9 @@
             </section>
         </main>
         <footer class="piepagina">
+            <p><a>&copy;</a><a href="http://daw207.ieslossauces.es/index.php">Alberto Fernández Ramírez</a> 29/09/2021 Todos los derechos reservados.</p>
+            <p>Ultima actualización: 08/12/2021 17:42 - Release 2.0</p>
             <a href="https://github.com/AlbertoFRSauces?tab=repositories" target="_blank"><img src="../webroot/css/img/github.png" class="imagegithub"/></a>
-            <p><a>&copy;</a>Alberto Fernández Ramírez 29/09/2021 Todos los derechos reservados.</p>
-            <p>Ultima actualización: 13/10/2021 18:58</p>
         </footer>
     </body>
 </html>
