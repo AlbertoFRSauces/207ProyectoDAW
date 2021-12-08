@@ -17,33 +17,44 @@
     margin: 0px; 
     padding: 0px;
 }
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
 body{
     background-repeat:no-repeat;
     background-attachment:fixed;
     position:relative;
     background-color:#EEEEEE;
 }
+
 /* INICIO Titulo*/
 header h1{
     font-family: "Gotham-Medium";
     font-size:42px;
     text-transform:uppercase;
-    text-align: center;
     color:white;
     padding-left:15px;
     padding-top:25px;
     padding-bottom:25px;
     padding-right:15px;
-    background-color:#D90000;
+    background-color:#252525;
 }
 /* FIN Titulo */
 
 /* IMAGENES */
 .imagegithub{
     margin-right:5px;
-    float: right;
-    width: 43px;
-    height: 43px;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}
+.imagemenu{
+    width: 240px;
+    height: 220px;
+    padding: 10px;
 }
 /* FIN IMAGENES */
 
@@ -51,11 +62,12 @@ header h1{
 .segundot{
     font-family: "Gotham-Medium";
     font-size:19px;
-    text-align:center;
     background-color:#252525;
     color:white;
-    padding-top:15px;
-    padding-bottom:15px;
+    padding-left:15px;
+    padding-top:25px;
+    padding-bottom:25px;
+    padding-right:15px;
 }
 /* FIN subtitulo */
 
@@ -111,15 +123,17 @@ table img:hover {
     background-color:#DDDDDD;
     position: fixed;
     bottom: 0;
-    padding-top: 8px;
-    padding-bottom: 8px;
+    padding-top: 5px;
+    padding-bottom: 2px;
     right: 0px;
     left: 0px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
 }
 .piepagina p{
     color:#33333D;
-    text-align:center;
-    margin-left: 48px;
 }
 .piepagina p:first-of-type{
     margin-top: 6px;

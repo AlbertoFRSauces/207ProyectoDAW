@@ -5,7 +5,7 @@ Estructura del ProyectoDAW el cual contiene mi web que engloba todos los proyect
 
 **Fecha Inicio Proyecto: 29/09/2021**
 
-**Ultima Actualización: 25/11/2021**
+**Ultima Actualización: 08/12/2021**
 
 ## Descripción 
 Estructura del ProyectoDAW
@@ -22,6 +22,6 @@ Estructura del ProyectoDAW
 
 ## Entornos
 ### Desarrollo (local)
--  http://daw207.sauces.local/index.php
+-  http://daw207.sauces.local
 ### Explotación (1&1)
--  http://daw207.ieslossauces.es/index.php
+-  http://daw207.ieslossauces.es
