@@ -90,7 +90,7 @@
         </main>
         <footer class="piepagina">
             <p><a>&copy;</a><a href="http://daw207.ieslossauces.es/index.php">Alberto Fernández Ramírez</a> 29/09/2021 Todos los derechos reservados.</p>
-            <p>Ultima actualización: 08/12/2021 17:42 - Release 2.0</p>
+            <p>Ultima actualización: 11/12/2021 02:58 - Release 2.1</p>
             <a href="https://github.com/AlbertoFRSauces?tab=repositories" target="_blank"><img src="../webroot/css/img/github.png" class="imagegithub"/></a>
         </footer>
     </body>

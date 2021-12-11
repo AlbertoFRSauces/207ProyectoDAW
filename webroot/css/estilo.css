@@ -23,6 +23,32 @@
     justify-content: center;
     gap: 8px;
 }
+@media (max-width: 1228px) {
+    .container{
+        display: flex;
+        flex-flow: row wrap;
+        align-items: center;
+        justify-content:space-around;
+        gap: 8px;
+        margin-bottom: 108px;
+    }
+    .primerasfilas{
+        width: 300px;
+    }
+}
+@media (max-width: 668px) {
+    .container{
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        margin-bottom: 128px;
+    }
+    .primerasfilas{
+        width: 300px;
+    }
+}
 body{
     background-repeat:no-repeat;
     background-attachment:fixed;
@@ -41,6 +67,7 @@ header h1{
     padding-bottom:25px;
     padding-right:15px;
     background-color:#252525;
+    border-bottom: grey solid 2px;
 }
 /* FIN Titulo */
 
@@ -68,6 +95,7 @@ header h1{
     padding-top:25px;
     padding-bottom:25px;
     padding-right:15px;
+    border-bottom: grey solid 2px;
 }
 /* FIN subtitulo */
 
@@ -75,8 +103,8 @@ header h1{
 .tabla{
     background-color:white;
     text-align:center;
-    height: auto;
-    width: auto;
+    height: 318px;
+    width: 298px;
 }
 table{
     float: left;
@@ -134,8 +162,10 @@ table img:hover {
 }
 .piepagina p{
     color:#33333D;
+    text-align: center;
 }
 .piepagina p:first-of-type{
     margin-top: 6px;
+    text-align: center;
 }
 /* FIN footer */
