@@ -5,10 +5,10 @@ Estructura del ProyectoDAW el cual contiene mi web que engloba todos los proyect
 
 **Fecha Inicio Proyecto: 29/09/2021**
 
-**Ultima Actualización: 21/01/2022**
+**Ultima Actualización: 19/02/2022**
 
 ## Descripción 
-Estructura del ProyectoDAW
+Estructura del ProyectoDAW con informacion sobre mi, un boton para acceder a la aplicación final y el menu de las asignaturas
 
 ## Funcionalidades
 - Muestra de menu de las asignaturas

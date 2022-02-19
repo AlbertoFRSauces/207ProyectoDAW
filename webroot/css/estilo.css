@@ -22,7 +22,41 @@
     align-items: center;
     justify-content: center;
     gap: 8px;
+    margin-bottom: 100px;
 }
+.descripcion{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding: 15px;
+}
+.aplicacionfinal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding: 15px;
+}
+.botonapp{
+    font-family: "Gotham-Medium";
+    width: 200px;
+    background-color: #252525;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    text-align: center;
+}
+.botonapp:hover{
+    background-color: black;
+    transition: background-color 0.3s linear 0s;
+}
+.midescripcion{
+    font-family: "Gotham-Medium";
+    width: 600px;
+    margin: 10px;
+}
+
 @media (max-width: 1228px) {
     .container{
         display: flex;
@@ -47,6 +81,12 @@
     }
     .primerasfilas{
         width: 300px;
+    }
+    .descripcion{
+        flex-direction: column;
+    }
+    .midescripcion{
+        width: 400px;
     }
 }
 body{
@@ -79,16 +119,20 @@ header h1{
     margin: 5px;
 }
 .imagemenu{
-    width: 240px;
-    height: 220px;
+    width: 180px;
+    height: 160px;
     padding: 10px;
+}
+.imageperfil{
+    width: 170px;
+    height: 220px;
 }
 /* FIN IMAGENES */
 
 /* INICIO subtitulo */
 .segundot{
     font-family: "Gotham-Medium";
-    font-size:19px;
+    font-size:17px;
     background-color:#252525;
     color:white;
     padding-left:15px;
@@ -103,8 +147,8 @@ header h1{
 .tabla{
     background-color:white;
     text-align:center;
-    height: 318px;
-    width: 298px;
+    height: 250px;
+    width: 280px;
 }
 table{
     float: left;
