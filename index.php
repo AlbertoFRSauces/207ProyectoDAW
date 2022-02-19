@@ -22,6 +22,28 @@
         <article class="segundot">
             <h3>By Alberto Fernández Ramírez</h3>
         </article>
+        <div class="descripcion">
+            <div>
+                <a href="https://www.linkedin.com/in/alberto-fern%C3%A1ndez-ram%C3%ADrez/" target="_blank" title="Acceso a mi Linkedin"><img src="../webroot/css/img/foto_perfil.jpg" class="imageperfil" alt="Rellenar"></a>
+            </div>
+            <div class="midescripcion">
+                <p>Soy Alberto, Desarrollador de Aplicaciones Web experimentado y capacitado, con 
+                    una sólida formación práctica y técnica. Capacitado para realizar 
+                    múltiples tareas, tales como la realización de aplicaciones web 
+                    multicapa basadas en tecnologías como PHP y JavaScript, orientado a 
+                    objetos y modelo vista controlador. Capaz de implementar el uso de 
+                    API’s REST propios y externos en la aplicación. Manejo también el HTML
+                    y el CSS de manera correcta para lograr implementarlo con cualquier aplicación.
+                    Preparado para explicar y desarrollar conceptos técnicos a personal inexperto de forma clara.
+                </p>
+                <p>
+                    Aqui debajo podras encontrar mi aplicacion web mas completa desarrollada en este curso y todo el contenido que he desarrollado en cada asignatura:
+                </p>  
+            </div>
+        </div>
+        <div class="aplicacionfinal">
+            <a href="207DWESAplicaccionFinalAlberto2022/index.php" target="_blank" class="botonapp">APLICACIÓN FINAL</a>
+        </div>   
         <main class="container">
             <section class="primerasfilas">
                 <table class="tabla">
@@ -90,7 +112,7 @@
         </main>
         <footer class="piepagina">
             <p><a>&copy;</a><a href="http://daw207.ieslossauces.es/index.php">Alberto Fernández Ramírez</a> 29/09/2021 Todos los derechos reservados.</p>
-            <p>Ultima actualización: 21/01/2022 11:34 - Release 2.2</p>
+            <p>Ultima actualización: 19/02/2022 15:20 - Release 3.0</p>
             <a href="https://github.com/AlbertoFRSauces?tab=repositories" target="_blank"><img src="../webroot/css/img/github.png" class="imagegithub"/></a>
         </footer>
     </body>
